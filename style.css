@@ -87,6 +87,7 @@ footer a:visited{
 
   .panel {
     height: 60vh;
+    flex: 1.5;
   }
 
   footer {
