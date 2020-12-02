@@ -84,6 +84,15 @@ footer a:visited{
   .panel:nth-of-type(5) {
     display: none;
   }
+
+  .panel {
+    height: 80vh;
+  }
+
+  footer {
+    
+    top: 0;
+  }
 }
 
 @media (min-width:1000px) {
